@@ -28,16 +28,14 @@ Healthy Research Labs isolates exploratory and academic R&D from commercial prod
 
 ## Corporate Stewardship
 
-Production applications, customer demonstrations, decentralized network architecture, and Habitcoin protocol tokenomics reside in the primary corporate organization:
+Commercial platforms, enterprise clinical integrations, decentralized network architecture, and Habitcoin protocol tokenomics reside in the primary corporate organization:
 
 - **Corporate Parent:** [Healthy Inc. (`@healthyinc`)](https://github.com/healthyinc)
-- **Production Monorepo:** [App-MVP](https://github.com/healthyinc/App-MVP)
-- **Demonstration Suite:** [MVP-CUSTOMER-DEMO](https://github.com/healthyinc/MVP-CUSTOMER-DEMO)
 
 ---
 
-## Core Engineering & Research Leadership
+## Executive & Research Leadership
 
 - **Chalinda Weerasinghe** ([@Chali-healthy](https://github.com/Chali-healthy)) - Founder & Chief Executive Officer
-- **Dr. Pradeeban Kathiravelu** ([@pradeeban](https://github.com/pradeeban)) - Technical & Systems Architecture Lead
-- **Ananth Reddy** ([@anbhimi](https://github.com/anbhimi)) - Frontend & Agentic Systems Lead
+- **Dr. Pradeeban Kathiravelu** ([@pradeeban](https://github.com/pradeeban)) - Chief Technology Officer
+
