@@ -1,0 +1,22 @@
+# Logs & System
+*.log
+*.log*
+
+# AI Agent Local Directives (Do not commit to GitHub)
+.agents/
+.agents/*
+
+# Dependencies
+node_modules/
+.venv/
+venv/
+env/
+
+# Environment
+.env
+.env.*
+.env.local
+
+# OS Metadata
+.DS_Store
+Thumbs.db
